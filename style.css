@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-color: darkblue;
+    
+}
+.line{
+    height:6px;
+    width: 200px;
+    background-color: black;
+    margin:5px auto;
+}
+img{
+    width:400px;
+    margin:50px;
+    height: 600px;
+    transition: transform .2s;
+    
+}
+img:hover{
+    transform: scale(.9);
+}
+#myslides{
+    background-color: red;
+    
+}
